@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/jmusic/static/css/main.e4207f56.chunk.css",
-    "main.js": "/jmusic/static/js/main.b3e0ec0d.chunk.js",
-    "main.js.map": "/jmusic/static/js/main.b3e0ec0d.chunk.js.map",
-    "runtime-main.js": "/jmusic/static/js/runtime-main.dc6056d4.js",
-    "runtime-main.js.map": "/jmusic/static/js/runtime-main.dc6056d4.js.map",
-    "static/css/2.13fa3a7d.chunk.css": "/jmusic/static/css/2.13fa3a7d.chunk.css",
-    "static/js/2.29628035.chunk.js": "/jmusic/static/js/2.29628035.chunk.js",
-    "static/js/2.29628035.chunk.js.map": "/jmusic/static/js/2.29628035.chunk.js.map",
-    "static/js/3.1cadb0a1.chunk.js": "/jmusic/static/js/3.1cadb0a1.chunk.js",
-    "static/js/3.1cadb0a1.chunk.js.map": "/jmusic/static/js/3.1cadb0a1.chunk.js.map",
-    "index.html": "/jmusic/index.html",
-    "static/css/2.13fa3a7d.chunk.css.map": "/jmusic/static/css/2.13fa3a7d.chunk.css.map",
-    "static/css/main.e4207f56.chunk.css.map": "/jmusic/static/css/main.e4207f56.chunk.css.map",
-    "static/js/2.29628035.chunk.js.LICENSE.txt": "/jmusic/static/js/2.29628035.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/jmusic/static/media/background3.20449238.png"
+    "main.css": "/jmusic/jm-glass/static/css/main.afb4ceda.chunk.css",
+    "main.js": "/jmusic/jm-glass/static/js/main.b3e0ec0d.chunk.js",
+    "main.js.map": "/jmusic/jm-glass/static/js/main.b3e0ec0d.chunk.js.map",
+    "runtime-main.js": "/jmusic/jm-glass/static/js/runtime-main.e19fcb59.js",
+    "runtime-main.js.map": "/jmusic/jm-glass/static/js/runtime-main.e19fcb59.js.map",
+    "static/css/2.13fa3a7d.chunk.css": "/jmusic/jm-glass/static/css/2.13fa3a7d.chunk.css",
+    "static/js/2.29628035.chunk.js": "/jmusic/jm-glass/static/js/2.29628035.chunk.js",
+    "static/js/2.29628035.chunk.js.map": "/jmusic/jm-glass/static/js/2.29628035.chunk.js.map",
+    "static/js/3.1cadb0a1.chunk.js": "/jmusic/jm-glass/static/js/3.1cadb0a1.chunk.js",
+    "static/js/3.1cadb0a1.chunk.js.map": "/jmusic/jm-glass/static/js/3.1cadb0a1.chunk.js.map",
+    "index.html": "/jmusic/jm-glass/index.html",
+    "static/css/2.13fa3a7d.chunk.css.map": "/jmusic/jm-glass/static/css/2.13fa3a7d.chunk.css.map",
+    "static/css/main.afb4ceda.chunk.css.map": "/jmusic/jm-glass/static/css/main.afb4ceda.chunk.css.map",
+    "static/js/2.29628035.chunk.js.LICENSE.txt": "/jmusic/jm-glass/static/js/2.29628035.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jmusic/jm-glass/static/media/background3.20449238.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc6056d4.js",
+    "static/js/runtime-main.e19fcb59.js",
     "static/css/2.13fa3a7d.chunk.css",
     "static/js/2.29628035.chunk.js",
-    "static/css/main.e4207f56.chunk.css",
+    "static/css/main.afb4ceda.chunk.css",
     "static/js/main.b3e0ec0d.chunk.js"
   ]
 }
